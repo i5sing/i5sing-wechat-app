@@ -1,0 +1,24 @@
+{
+  "name": "i5sing-wechat-app",
+  "version": "0.0.1",
+  "description": "中国原创音乐基地5sing Wechat App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5sing/i5sing-wechat-app.git"
+  },
+  "keywords": [
+    "5sing",
+    "wechat-app",
+    "wxa"
+  ],
+  "author": "miaowing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i5sing/i5sing-wechat-app/issues"
+  },
+  "homepage": "https://github.com/i5sing/i5sing-wechat-app#readme"
+}
